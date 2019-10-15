@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaCalculadoraJosue</string>
+
+    <string name="btn1">sumar</string>
+    <string name="btn2">restar</string>
+    <string name="btn3">multiplicar</string>
+    <string name="btn4">dividir</string>
+</resources>
